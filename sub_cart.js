@@ -5,8 +5,8 @@
    Tutorial 12
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: mickal austin
+   Date: 4-3-19  
 
    Filename: sub_cart.js
 
